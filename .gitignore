@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+node_modules/
+.DS_Store
+.env
+dist/
+build/
+=======
+node_modules/
+.DS_Store
+.env
+dist/
+build/
+>>>>>>> add82625308c6a4bc716f9f4c6cddda8e882f6ac
